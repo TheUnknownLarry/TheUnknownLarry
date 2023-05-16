@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheUnknownLarry
 - 👀 I’m interested in Minecraft, Valorant, Coding and Cars
-- 🌱 I’m currently learning informatics in 2nd semester
+- 🌱 I’m currently learning informatics in 4th semester
 - 📫 You can reach me on Discord through TheUnknownLarry#1366
 
 <!---
