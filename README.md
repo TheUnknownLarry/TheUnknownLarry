@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheUnknownLarry
 - 👀 I’m interested in Minecraft, Football, Volleyball, Coding and Cars
-- 🌱 I'm currently in my sixth semester of studying computer science
+- 🌱 I studied computer science and now work as a junior software developer in southern Germany
 - 📫 You can reach me on Discord through @theunknownlarry
 
 <!---
